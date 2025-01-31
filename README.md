@@ -45,7 +45,7 @@ http://localhost:3000/ in your browser.
 
 # Deployment Link
 
-Live API: [Your API URL]
+Live API: [Live api link](https://hng12-stage01.onrender.com)
 
 # Resources
 
